@@ -1,5 +1,5 @@
 ### Hi there, I'm emil dawood 👋
-##### Back end Developer
+##### Front end Developer
 
 - 🔭 I’m currently working on University system
 - 🌱 I’m currently learning deep in design pattern
